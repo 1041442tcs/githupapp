@@ -17,5 +17,5 @@ jobs:
           uses: Azure/pipelines@v1
           with:
             azure-devops-project-url: https://dev.azure.com/1041442demo/1041442demo1/
-            azure-pipeline-name: '1041442tcs.githupapp'
+            azure-pipeline-name: 'Newapp'
             azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
